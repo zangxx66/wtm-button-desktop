@@ -1,24 +1,17 @@
 # wtm-button-desktop
 
-## Project setup
-```
-yarn install
-```
+WTM button [Click here to visit https://watame.moe](https://watame.moe)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+[![Build Status](https://travis-ci.org/zangxx66/wtm-button-desktop.svg?branch=master)](https://github.com/zangxx66/wtm-button-desktop)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Related Links:
 
-### Lints and fixes files
-```
-yarn lint
-```
+* [Watame's Youtube channel](https://t.co/gE06SdvpNX?amp=1)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* [Watame's Twitter](https://twitter.com/tsunomakiwatame)
+
+* [Watame's Bilibili](https://space.bilibili.com/491474050)
+
+## 下载
+
+[Click here](https://github.com/zangxx66/wtm-button-desktop/releases)
